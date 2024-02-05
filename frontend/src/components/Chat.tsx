@@ -6,7 +6,7 @@ export default function Chat() {
       <div className="relative h-full w-full">
         <div className="bg-gray-950 rounded p-2">
           <div className="flex items-center text-pink-400 space-x-2">
-            <span>Alexia Kattah</span>
+            <span>Alex-prueba</span>
             <span>09:15</span>
           </div>
           <div className="mt-5 text-sm">
